@@ -1,5 +1,3 @@
-# Getting started
-
 # What is required to complete the challenge
 
 You are required to create a React App with an image gallery that interfaces with the Flickr API.
